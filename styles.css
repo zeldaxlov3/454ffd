@@ -1,0 +1,73 @@
+body {
+  background-color: blanchedalmond;
+  
+}
+
+.border1 {
+  border-style: solid;
+  border-color: brown;
+  background-color: gray;
+  padding: 10px;
+  margin-top: 35px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.bordchicken {
+  border-top: 1px;
+  border-bottom: 0;
+  border-left: 0;
+  border-right: 0;
+  border-style: solid;
+  border-color: black;
+  
+}
+
+.row {
+  width: 100%;
+  padding-top: 25px;
+  padding-bottom: 26px;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+}
+
+.title {
+  text-align: center;
+  font-size: 20px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.xd {
+  background-color: blueviolet;
+}
+
+.mar {
+  margin-top: 25px;
+}
+
+li {
+  text-align: center;
+  border-top: 0;
+  border-bottom: 1px;
+  border-left: 0.1px;
+  border-right: 0.1px;
+  border-style: solid;
+  background-color: aqua;
+}
+
+.pad {
+  padding-left: 10px;
+  font-style: normal;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.test {
+  font-style: normal;
+  font-weight: bold;
+}
